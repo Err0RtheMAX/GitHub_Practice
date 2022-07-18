@@ -1,5 +1,3 @@
-Are you Sure? Are you Serious?
-
-What are you doing?
-
-This is new comment. Say something. From New repository
+version https://git-lfs.github.com/spec/v1
+oid sha256:088bfcce51ff1d350a81e2220adb44c33ded3ad05f1ce512d0fecbd6af3ae899
+size 112
